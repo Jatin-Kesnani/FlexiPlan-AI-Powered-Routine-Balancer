@@ -24,6 +24,11 @@ FlexiPlan is a mobile application designed to help users effectively manage thei
 
 ---
 
+## Architecture
+![Architecture Diagram](architecture.png)
+
+---
+
 ## **How to Run**
 - Clone the repository and follow the setup instructions in the [README.md](./README.md) file.
 - Ensure the backend runs on `localhost:8000` and the frontend on `localhost:3000`.
