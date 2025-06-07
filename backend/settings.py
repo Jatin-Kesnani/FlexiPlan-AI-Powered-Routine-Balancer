@@ -26,15 +26,12 @@ MEDIA_ROOT = BASE_DIR / 'media'
 SECRET_KEY = 'your-default-secret-key-here'
 
 # Google Gemini API Key
-# Get your API key from: https://makersuite.google.com/app/apikey
-GEMINI_API_KEY = "AIzaSyCFCSleVdgC4N-DE3K3L2ENTS7KR72kbSk"  # Replace this with the new API key from makersuite.google.com
-# GEMINI_API_KEY = "AIzaSyC4wEvsWP8aRYD_GxdgL68fEAfWhUIUcSs" #Ritesh's API key
-# SECURITY WARNING: don't run with debug turned on in production!
+GEMINI_API_KEY = "your-api-key"
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '172.16.81.99', '192.168.0.105', '10.0.2.174', '192.168.1.119', '192.168.100.189', '192.168.0.101']  # Add the IP address of your machine
 
-GOOGLE_API_KEY= "AIzaSyBeIcQDtjdN3xcaDYqLexochY8uwmhaiEw"
+GOOGLE_API_KEY= "your-google-api-key"
 
 # Application definition
 
