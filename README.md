@@ -1,5 +1,9 @@
 # **FlexiPlan**
 
+<p align="center">
+  <img src="logo.png" alt="FlexiPlan Logo" width="200"/>
+</p>
+
 ### *An AI-Powered Routine Balancer*
 
 FlexiPlan is a mobile application designed to help users effectively manage their daily schedules by balancing work tasks and personal hobbies. Using **AI**, the app generates **personalized daily and weekly routines**, adapts to the user's energy levels and mood, and encourages a healthy work-life balance. FlexiPlan also includes social features like routine sharing, hobby exploration, and in-app messaging. The project also utilizes a **LangChain AI agent** for enhanced functionality.
