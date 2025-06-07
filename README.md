@@ -11,6 +11,7 @@ FlexiPlan is a mobile application designed to help users effectively manage thei
 ---
 
 ## [Use Case 1: Chatting with AI Agent](https://www.youtube.com/watch?v=BQon-wQ-yXw)
+👉 [Click here to watch use case](https://www.youtube.com/watch?v=BQon-wQ-yXw)
 
 This video demonstrates Flexiplan, an Android application designed for routine analysis and task management. The app allows users to chat with an AI agent to add and view tasks and hobbies. Users can also generate routines based on their profile.
 
@@ -25,6 +26,7 @@ This video demonstrates Flexiplan, an Android application designed for routine a
 ---
 
 ## [Use Case 2: View Analytics](https://www.youtube.com/watch?v=mvCvQYNE8tk)
+👉 [Click here to watch use case](https://www.youtube.com/watch?v=mvCvQYNE8tk)
 
 This video demonstrates the "Routine Analysis" features of the Flexiplan app, which helps users track their routine patterns. The app provides various analytics and insights to help users manage their time effectively and achieve a good work-life balance. Key features include:
 
